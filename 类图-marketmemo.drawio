@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-11T11:22:14.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="kf7xrxC--IdTCQEjAAEO" version="21.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-11T11:22:57.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ea1q5uujxQgOFlGUNc5g" version="21.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="954" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -180,7 +180,7 @@
           <mxGeometry y="260" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ITmPzG-bPmOx7RCtOoDD-67" value="交易衍生-组合维度" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="710" y="400" width="160" height="290" as="geometry">
+          <mxGeometry x="950" y="150" width="160" height="290" as="geometry">
             <mxRectangle x="220" y="120" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -209,10 +209,13 @@
           <mxGeometry y="208" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ITmPzG-bPmOx7RCtOoDD-76" value="持仓份额=&lt;br&gt;持仓成本=&lt;br&gt;持仓市值=&lt;br&gt;总投入=&lt;br&gt;总收益=&lt;br&gt;总收益率=&lt;br&gt;年化收益率=&lt;br&gt;最大回撤=" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="370" y="530" width="150" height="150" as="geometry" />
+          <mxGeometry x="920" y="580" width="150" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="ITmPzG-bPmOx7RCtOoDD-80" value="已投入份数=sumifs(交易份数，交易类型，买)-sumifs(交易份数，交易类型，卖）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="525" width="120" height="60" as="geometry" />
+        <mxCell id="ITmPzG-bPmOx7RCtOoDD-80" value="1，已投入份数=sumifs(交易份数，交易类型，买)-sumifs(交易份数，交易类型，卖）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="560" y="525" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ITmPzG-bPmOx7RCtOoDD-81" value="1，持有份额=" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="290" y="525" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
