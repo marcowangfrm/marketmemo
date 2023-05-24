@@ -1,9 +1,75 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T05:30:01.817Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" version="21.3.3" etag="RDvAwXBwMTHoirsqrkfn" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T05:36:37.684Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qTDajFXR5VHgYhcWLNY8" version="21.3.3" type="github">
   <diagram name="第 1 页" id="gucCm2ppd47SxsXJn5QK">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="1705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="270" width="650" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-1" value="GPT-4&lt;br&gt;Claude-v1&lt;br&gt;GPT-3.5-turbo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-2" value="文本类&lt;br&gt;chatglm&lt;br&gt;羊驼&lt;br&gt;vicuna" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-3" value="语音类&lt;br&gt;whisper" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-4" value="图像类&lt;br&gt;dalle&lt;br&gt;stabel diffusion" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-6" value="本地化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-7" value="API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-8" value="WEB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="80" width="650" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-11" value="langchain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-12" value="langflow" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-13" value="guidance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-14" value="..." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-15" value="模型" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="295" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-16" value="框架" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="105" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="-10" width="770" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-18" value="chatpdf" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-19" value="chatbot" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-20" value="agentgpt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-21" value="clickgpt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-22" value="应用" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="15" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EYhL-snGSQvqWWDRq-WC-23" value="huggingface&lt;br&gt;modelhub" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
